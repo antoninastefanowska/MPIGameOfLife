@@ -1,0 +1,6 @@
+*.out
+*.err
+*.o
+*.sh
+!slurm.sh
+frames/
